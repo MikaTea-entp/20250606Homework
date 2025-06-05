@@ -29,8 +29,3 @@ Added an individual delete button for each journal to enable intuitive interacti
 ## ⑥難しかった点・次回トライしたいこと（又は機能）
 ぶっちゃけ全部<br/>
 ALL.
-
-## ⑦
-[感想]
-このアプリは「書くことで自分を取り戻す」ことを意図した、小さな自己支援ツールです。
-デザイン思考を「他者の課題を解決するためのもの」としてだけでなく、自分自身の回復・強化のための道具として活かしたい人へ。
